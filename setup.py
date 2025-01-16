@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Topsis-Khwaish-102217010",  
-    version="1.0.0",
+    version="1.0.1",
     license = 'MIT',
     description="A Python package to perform TOPSIS analysis",
     author="Khwaish Agarwal",        

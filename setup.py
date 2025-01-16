@@ -8,7 +8,7 @@ setup(
     author="Khwaish Agarwal",        
     author_email="khwaishagarwal22@gmail.com", 
     url = 'https://github.com/khwaishagarwal/Topsis-Khwaish-102217010',
-    download_url = 'https://github.com/khwaishagarwal/Topsis-Khwaish-102217010/archive/refs/tags/v1.0.0.tar.gz',
+    download_url = 'https://github.com/khwaishagarwal/Topsis-Khwaish-102217010/archive/refs/tags/v1.0.1.tar.gz',
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     packages=find_packages(),
